@@ -25,6 +25,16 @@ project-root/
 
 * Python 3.x (recommended version)
 * Dependencies listed in `requirements.txt`
+   ```
+   pandas==2.1.1
+   numpy==1.23.5
+   matplotlib==3.8.0
+   seaborn==0.12.2
+   calplot==0.1.7.5
+   adtk==0.6.2
+   scipy==1.11.3
+   scikit-learn==1.3.0
+   ```
 
 ## Installation
 
