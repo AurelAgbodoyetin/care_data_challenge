@@ -12,8 +12,10 @@ project-root/
 │   ├── ITEMS.XLSX
 │   ├── ORDERINFO.XLSX
 │   └── ORDERS.XLSX
+│   
 ├── notebooks/
 │   └── exploration.ipynb
+│   
 ├── requirements.txt
 ├── README.md
 └── main.py
@@ -50,13 +52,11 @@ project-root/
 
 3. Open the `exploration.ipynb` notebook.
 
-4. Run the cells in the notebook to execute the code.
-
-5. You can directly run the following command in your terminal to open the notebook:
+4. You can directly run the following command in your terminal to open the notebook:
 
 ```bash
 jupyter-notebook notebooks/core_notebook.ipynb
 ```
-
 This will open the Jupyter Notebook in your default web browser.
 
+5. Run the cells in the notebook to execute the code.
